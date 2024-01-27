@@ -5,7 +5,7 @@
      9
 
 # Bitwise-OR
-Bitwise or
+Bitwise OR
 solution
 
     236
