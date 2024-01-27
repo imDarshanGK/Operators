@@ -1,4 +1,4 @@
-#Bitwise or(|)
-a=10
-b=20
+#Bitwise OR(|)
+a=100
+b=200
 print(a | b)
