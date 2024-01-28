@@ -9,3 +9,14 @@ Bitwise OR
 solution
 
     236
+# logical operators
+    True
+    False
+    False
+    False
+    True
+    True
+    True
+    False
+    False
+    True
