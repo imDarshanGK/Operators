@@ -10,6 +10,7 @@ solution
 
     236
 # logical operators
+There are used to compare two relational expressions, after comparison it gives True or False.
     True
     False
     False
