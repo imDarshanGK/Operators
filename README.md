@@ -32,3 +32,13 @@ In fix which are used to perform operations on variables or operands and assign 
     a/= 40.0
     a%= 0.0
     a//= 0.0
+# Relational operators
+It is used to compare the two operands and it returns true or false.
+
+    True
+    False
+    True
+    False
+    True
+    True
+    False
