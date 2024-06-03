@@ -16,6 +16,7 @@ solution:
 
 # Left shift
     40
+    
 # Bitwise NOT(~)
     -11
      9
@@ -25,6 +26,7 @@ Bitwise OR
 solution
 
     236
+    
 # logical operators
 There are used to compare two relational expressions, after comparison it gives True or False.
 
@@ -38,6 +40,7 @@ There are used to compare two relational expressions, after comparison it gives 
     False
     False
     True
+    
 # Assignment Operators
 In fix which are used to perform operations on variables or operands and assign values to the operand on the leftside of the operator.
 
@@ -48,6 +51,7 @@ In fix which are used to perform operations on variables or operands and assign 
     a/= 40.0
     a%= 0.0
     a//= 0.0
+    
 # Relational operators
 It is used to compare the two operands and it returns true or false.
 
