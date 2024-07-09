@@ -1,8 +1,8 @@
-val_1 = 5
-val_2 = 5
-print(id(val_1))
-print(id(val_2))
-print(val_1 is val_2)
+val1 = 5
+val2 = 5
+print(id(val1))
+print(id(val2))
+print(val1 is val2)
 
 num1 = 6
 num2 = 7
