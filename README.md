@@ -69,8 +69,7 @@ It is used to compare the two operands and it returns true or false.
 
 1} Bitwise Right Shift Operator
 
-    The bitwise right shift operator in python shifts the bits of the binary representation of the input number to the right side by a specified number of places. The empty bits created by shifting the bits 
-    are filled by 0s. 
+    The bitwise right shift operator in python shifts the bits of the binary representation of the input number to the right side by a specified number of places. The empty bits created by shifting the bits are filled by 0s. 
 
 2} Bitwise Left Shift Operator
 
